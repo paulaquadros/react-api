@@ -9,7 +9,6 @@ Para visualizar o frontend com React, execute os passos:
 ```
 $ cd frontend/my-app
 $ npm start
-
 ```
 
 # Aplicação
@@ -23,5 +22,4 @@ $ cp backend/.env.example backend/.env
 $ cd backend && npm install && cd ..
 $ cd frontend && npm install && cd ..
 $ docker compose up
-
 ```

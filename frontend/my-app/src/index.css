@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h2 {
+  margin-right: 25rem;
+  color: #465775;
+}
+
+.right-item {
+  text-align: right;
+}
+
+#login,
+#logout {
+  margin-left: 10px;
+}
+
+#search {
+  margin-left: 15px;
+}
+
+.card:hover {
+  background-color: rgb(102, 119, 149);
+  cursor: pointer;
+}

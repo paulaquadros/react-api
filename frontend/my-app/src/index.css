@@ -31,6 +31,10 @@ h2 {
 }
 
 .card:hover {
-  background-color: rgb(102, 119, 149);
+  background-color: rgb(200, 221, 255);
+}
+
+.cart-button:hover,
+.store-title:hover {
   cursor: pointer;
 }
